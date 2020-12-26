@@ -8,18 +8,13 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Capstone Project 2
 
-- [Project 1 Title](/pdf/sample_presentation.pdf)
+- [Project 2](https://github.com/izzrynn/BasicsofData/blob/main/CapstoneProjectLatest14Dec.xlsm)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
