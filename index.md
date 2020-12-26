@@ -3,9 +3,8 @@
 ---
 
 ### Capstone Project 1 
-Capstone Project 1.xlsx
 
-[Basics of Data Science](/sample_page)
+[Basics of Data Science](https://github.com/izzrynn/BasicsofData/blob/main/Capstone%20Project%201.xlsx)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -20,7 +19,7 @@ Capstone Project 1.xlsx
 
 ### Capstone Project 2
 
-[Project 1 Title](/pdf/sample_presentation.pdf)
+- [Project 1 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
