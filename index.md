@@ -37,7 +37,7 @@
 ---
 ### Capstone Project 4
 
-[Visualizing Data with Power BI](https://github.com/izzrynn/BasicsofData/blob/main/Project.pbix)
+[Build a Machine Learning Model with Python](https://github.com/izzrynn/BasicsofData/blob/main/Project.pbix)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
