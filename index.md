@@ -26,7 +26,7 @@
 ---
 ### Capstone Project 3
 
-- [Project 3](https://github.com/izzrynn/BasicsofData/blob/main/CapstoneProjectLatest14Dec.xlsm)
+- [Project 3](https://github.com/izzrynn/BasicsofData/blob/main/Project.pbix)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
