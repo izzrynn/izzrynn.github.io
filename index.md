@@ -37,7 +37,7 @@
 ---
 ### Capstone Project 4
 
-[Build a Machine Learning Model with Python](https://github.com/izzrynn/BasicsofData/blob/main/CAPSTONE PROJECT 4.pptx)
+[Build a Machine Learning Model with Python](https://github.com/izzrynn/BasicsofData/blob/main/CAPSTONE%20PROJECT%204.pptx)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
