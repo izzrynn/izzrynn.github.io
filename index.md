@@ -14,7 +14,7 @@
 
 ### Capstone Project 2
 
-- [Analyze Data with SQL](https://github.com/izzrynn/BasicsofData/blob/main/CapstoneProjectLatest14Dec.xlsm)
+[Analyze Data with SQL](https://github.com/izzrynn/BasicsofData/blob/main/CapstoneProjectLatest14Dec.xlsm)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
@@ -26,7 +26,7 @@
 ---
 ### Capstone Project 3
 
-- [Visualizing Data with Power BI](https://github.com/izzrynn/BasicsofData/blob/main/Project.pbix)
+[Visualizing Data with Power BI](https://github.com/izzrynn/BasicsofData/blob/main/Project.pbix)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -37,5 +37,5 @@
 ---
 ### Capstone Project 4
 
-- [Build a Machine Learning Model with Python](https://github.com/izzrynn/BasicsofData/blob/main/CAPSTONE PROJECT 4.pptx)
+[Build a Machine Learning Model with Python](https://github.com/izzrynn/BasicsofData/blob/main/CAPSTONE PROJECT 4.pptx)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
