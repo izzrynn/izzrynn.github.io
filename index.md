@@ -37,5 +37,5 @@
 ---
 ### Capstone Project 4
 
-- [Project 4](https://github.com/izzrynn/BasicsofData/blob/main/CapstoneProjectLatest14Dec.xlsm)
+- [Project 4](https://github.com/izzrynn/BasicsofData/blob/main/CAPSTONE PROJECT 4.pptx)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
