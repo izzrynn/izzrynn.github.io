@@ -39,3 +39,10 @@
 
 [Build a Machine Learning Model with Python](https://github.com/izzrynn/BasicsofData/blob/main/CAPSTONE PROJECT 4.pptx)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+
+
+
+---
