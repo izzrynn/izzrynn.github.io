@@ -24,5 +24,18 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+### Capstone Project 3
+
+- [Project 3](https://github.com/izzrynn/BasicsofData/blob/main/CapstoneProjectLatest14Dec.xlsm)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+
+
+
+---
+### Capstone Project 4
+
+- [Project 4](https://github.com/izzrynn/BasicsofData/blob/main/CapstoneProjectLatest14Dec.xlsm)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
